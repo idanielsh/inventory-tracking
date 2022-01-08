@@ -4,8 +4,7 @@
 
 The API is currently hosted using heroku on https://shopify-inventory-tracking.herokuapp.com/
 
-The interactive API documentation can be accessed at https://shopify-inventory-tracking.herokuapp.com/docs . This documentation is also available when deployed locally at http://0.0.0.0:8000/docs.
-
+The interactive API documentation can be accessed at https://shopify-inventory-tracking.herokuapp.com/docs . This documentation is also available when deployed locally at http://0.0.0.0:8000/docs. The documentation contains all of the endpoints, as well as the schemas used for those endpoints.
 
 ## Requirements
 
