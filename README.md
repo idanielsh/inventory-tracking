@@ -1,5 +1,9 @@
 # inventory-tracking / Shopify Solution Challenge - Summer 2022
 
+## [Deployment](https://shopify-inventory-tracking.herokuapp.com/)
+
+## [Documentation](https://shopify-inventory-tracking.herokuapp.com/docs)
+
 ## Usage
 
 The API is currently hosted using heroku on https://shopify-inventory-tracking.herokuapp.com/
